@@ -155,12 +155,21 @@ Hotel Amin/
 - PostgreSQL (v12 or higher)
 - npm or yarn
 
-### Backend Setup
+### Database Setup
+
+1. **Create a database in Postgresql. Name of the database must be "hotel_management_fina"**
+
+   ```bash
+   password : root
+   ```
+
+### backend Setup
 
 1. **Clone the repository**
 
    ```bash
    git clone https://github.com/your-username/hotel-amin-management.git
+   cd backend
    ```
 
 2. **Install dependencies**
