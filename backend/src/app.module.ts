@@ -52,7 +52,7 @@ import { JwtModule } from '@nestjs/jwt';
         password: 'root',
         host: 'localhost',
         autoLoadEntities: true,
-        database: 'hotel_management',
+        database: 'hotel_management_final',
       }),
     }),
   ],

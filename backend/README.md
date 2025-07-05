@@ -125,18 +125,16 @@ README.md
 
 ```bash
 git clone https://github.com/Sikhul007/Hotel-Amin-Adv.-Web.git
-cd Full-Stack
+cd backend
 ```
 
-### 2. Create Table in Postgresql
+### 2. Create a database in Postgresql. Name of the database must be "hotel_management_fina"
 
 ```
-Create a new Table in postgresql
-Name: hotel_management
 password : root
 ```
 
-### 3. Install Dependencies
+### 3. Install Dependencies (before run backend must use this)
 
 ```
 npm i
@@ -164,7 +162,5 @@ npm run start:dev
 ```
 http://localhost:3000/api
 ```
-
-### Right now backend completely ready... working on process for frontend.
 
 ### Thank you.
